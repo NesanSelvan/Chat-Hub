@@ -1,5 +1,3 @@
-
-https://github.com/NesanSelvan/Chat-Hub/assets/88973192/912d13b3-bf63-41ca-8259-578b4992dd55
 # chat_hub
 This is a chatting Application developed in flutter and firebase
 
